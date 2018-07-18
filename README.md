@@ -1,1 +1,2 @@
 # blog
+刚从原生JavaScript和jQuery的技术栈转到react相关上，记录一些遇到的坑和解决方案，也是记录一个思想转变的过程。
